@@ -16,6 +16,7 @@ public class DemoApplication {
 		logger.info("Application started....");
 		if(data.equals("java techie")) {
 			System.out.println("Welcome");
+			System.out.println("Hii im Nick");
 		}
 	}
 
